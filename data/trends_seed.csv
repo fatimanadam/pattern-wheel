@@ -1,0 +1,4 @@
+timestamp,trend_id,domain,text_blurb,src_url,gt_search,yt_views,tiktok_views,billboard_rank,sp500_ret,cpi_surprise,unemp_rate,youth_proxy,shock_signed,novelty_kw_density,order_kw_density,axis_label
+2015-01,quiet_luxury,fashion,"capsule wardrobe, muted palette",https://...,45,, , ,0.01,-0.1,5.7,0.62,-0.2,0.12,0.41,-0.6
+2015-02,quiet_luxury,fashion,"normcore carry-over",https://...,48,, , ,-0.02,0.0,5.6,0.64,0.00,0.10,0.43,-0.5
+2019-06,y2k_revival,fashion,"low-rise, chrome, baby tee",https://...,22,, , ,0.03,0.1,3.6,0.78,0.05,0.55,0.18,0.5
